@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The bash alias and you
+title: The bash alias and you.
 date: 2023-04-17 18:45:00 -0700
 categories: [bash, terminal, programming]
 tags: [bash, terminal, shortcuts]
