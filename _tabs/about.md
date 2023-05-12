@@ -3,4 +3,6 @@
 icon: fas fa-info-circle
 order: 4
 ---
-UNDER CONSTRUCTION!
+
+
+### [Download my resume](/assets/files/Anthony Sallows Resume.pdf)
